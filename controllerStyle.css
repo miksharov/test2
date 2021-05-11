@@ -1,5 +1,5 @@
 .xbox.disconnected {
-    background: url(http://gamepadviewer.com/xbox-assets/disconnected.svgz);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .xbox.disconnected div {
